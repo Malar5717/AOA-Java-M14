@@ -34,7 +34,7 @@ Constraints:
 
 ## Program:
 
-### to implement Reverse a String
+### to implement kandanes algorithm
 
 ```java
 import java.util.Scanner;

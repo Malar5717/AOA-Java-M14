@@ -33,7 +33,7 @@ text1 and text2 consist of only lowercase English characters.
 
 ## Program:
 
-### to implement Reverse a String
+### to implement Longest Common Subsequence (LCS)
 
 ```java
 import java.util.Scanner;

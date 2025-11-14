@@ -23,7 +23,7 @@ You may assume that you have an infinite number of each kind of coin.
 
 ## Program:
 
-### to implement Reverse a String
+### to implement coin change
 
 ```java
 import java.util.Scanner;

@@ -29,7 +29,7 @@ A single integer – number of distinct ways to reach step n.
 
 ## Program:
 
-### to implement Reverse a String
+### to implement number of distinct ways a frog can reach the n-th step
 
 ```java
 import java.util.Scanner;
