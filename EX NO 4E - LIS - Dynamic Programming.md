@@ -16,7 +16,8 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 3. If `nums[i] > nums[j]`, update `dp[i] = Math.max(dp[i], dp[j] + 1)`.
 4. Keep track of the maximum value in the `dp` array.
 5. Return the maximum value as the length of the LIS.
-
+#### Developed By: Malar Mariam S
+#### Register Number: 212223230118
 ## Program:
 
 ### to implement longest strictly increasing subsequence
